@@ -1,0 +1,4 @@
+Type	        Pros	         Cons
+Broadband     Affordable    Moderate speed
+Fiber	      Very fast 	Costly
+Satellite     Wide coverage   High delay

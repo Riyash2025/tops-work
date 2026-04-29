@@ -1,0 +1,4 @@
+LAB EXERCISE
+UI Layer → Interaction
+Logic Layer → Processing
+Data Layer → Storage

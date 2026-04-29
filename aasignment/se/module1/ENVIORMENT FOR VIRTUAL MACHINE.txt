@@ -1,0 +1,4 @@
+LAB EXERCISE
+Development → Writing code
+Testing → Finding bugs
+Production → Live system

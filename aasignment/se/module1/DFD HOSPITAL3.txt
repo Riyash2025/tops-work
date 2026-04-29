@@ -1,0 +1,7 @@
+  Patient
+           ↓
+   [ Hospital System ]
+           ↓
+        Doctor
+           ↓
+       Database

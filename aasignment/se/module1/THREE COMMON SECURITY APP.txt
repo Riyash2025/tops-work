@@ -1,0 +1,4 @@
+Vulnerability	Solution
+SQL Injection	Use prepared statements
+XSS	Input validation
+Weak Passwords	Strong passwords

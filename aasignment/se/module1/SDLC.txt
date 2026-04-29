@@ -1,0 +1,1 @@
+Requirement → Design → Coding → Testing → Deployment → Maintenance

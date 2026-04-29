@@ -1,0 +1,6 @@
+Steps:
+
+Create repository
+Add .c file
+Commit
+Push
